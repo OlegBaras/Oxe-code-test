@@ -2,7 +2,7 @@ Steps to run the test:
 
     1. Clone or download the repository.
     2. Run "npm install" command in the project folder.
-    3. Run node.js express server locally - attached in original task
+    3. Run node.js express server locally - attached in original task.
     4. Run "npm start" command to run the project.
 
 # Getting Started with Create React App
