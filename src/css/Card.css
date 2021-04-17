@@ -1,0 +1,22 @@
+.card {
+  border: 1px solid black;
+  width: 250px;
+  height: 250px;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  margin-left: 2rem;
+  overflow: hidden;
+}
+
+.title {
+  height: 30%;
+  padding-left: 1rem;
+  display: flex;
+  align-items: center;
+}
+
+.content {
+  padding-left: 1rem;
+  padding-top: 2rem;
+  border-top: 1px solid black;
+}
